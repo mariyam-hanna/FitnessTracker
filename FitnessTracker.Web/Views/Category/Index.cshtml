@@ -1,0 +1,31 @@
+﻿@using FitnessTracker.Models
+@model List<Category>
+
+<table class="table table-border">
+	<thread>
+		<tr>
+			<td>
+				Number
+			</td>
+			<td>
+				Muscle Groups
+			</td>
+
+		</tr>
+	</thread>
+	<tbody>
+		@foreach(var item in Model)
+		{
+			<tr>
+				<td>
+					@item.DisplayOrder
+					</td>
+				<td>
+					@item.MuscleGroup
+				</td>
+			</tr>
+
+		}
+		</tbody>
+
+	</table>
