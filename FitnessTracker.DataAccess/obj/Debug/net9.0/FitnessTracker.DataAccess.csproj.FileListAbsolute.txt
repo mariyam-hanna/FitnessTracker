@@ -1,0 +1,17 @@
+C:\Mariyam\Projects\FitnessTracker\FitnessTracker.DataAccess\bin\Debug\net9.0\FitnessTracker.DataAccess.deps.json
+C:\Mariyam\Projects\FitnessTracker\FitnessTracker.DataAccess\bin\Debug\net9.0\FitnessTracker.DataAccess.runtimeconfig.json
+C:\Mariyam\Projects\FitnessTracker\FitnessTracker.DataAccess\bin\Debug\net9.0\FitnessTracker.DataAccess.dll
+C:\Mariyam\Projects\FitnessTracker\FitnessTracker.DataAccess\bin\Debug\net9.0\FitnessTracker.DataAccess.pdb
+C:\Mariyam\Projects\FitnessTracker\FitnessTracker.DataAccess\bin\Debug\net9.0\FitnessTracker.Models.dll
+C:\Mariyam\Projects\FitnessTracker\FitnessTracker.DataAccess\bin\Debug\net9.0\FitnessTracker.Models.pdb
+C:\Mariyam\Projects\FitnessTracker\FitnessTracker.DataAccess\obj\Debug\net9.0\FitnessTracker.DataAccess.csproj.AssemblyReference.cache
+C:\Mariyam\Projects\FitnessTracker\FitnessTracker.DataAccess\obj\Debug\net9.0\FitnessTracker.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mariyam\Projects\FitnessTracker\FitnessTracker.DataAccess\obj\Debug\net9.0\FitnessTracker.DataAccess.AssemblyInfoInputs.cache
+C:\Mariyam\Projects\FitnessTracker\FitnessTracker.DataAccess\obj\Debug\net9.0\FitnessTracker.DataAccess.AssemblyInfo.cs
+C:\Mariyam\Projects\FitnessTracker\FitnessTracker.DataAccess\obj\Debug\net9.0\FitnessTracker.DataAccess.csproj.CoreCompileInputs.cache
+C:\Mariyam\Projects\FitnessTracker\FitnessTracker.DataAccess\obj\Debug\net9.0\FitnessT.7995757D.Up2Date
+C:\Mariyam\Projects\FitnessTracker\FitnessTracker.DataAccess\obj\Debug\net9.0\FitnessTracker.DataAccess.dll
+C:\Mariyam\Projects\FitnessTracker\FitnessTracker.DataAccess\obj\Debug\net9.0\refint\FitnessTracker.DataAccess.dll
+C:\Mariyam\Projects\FitnessTracker\FitnessTracker.DataAccess\obj\Debug\net9.0\FitnessTracker.DataAccess.pdb
+C:\Mariyam\Projects\FitnessTracker\FitnessTracker.DataAccess\obj\Debug\net9.0\FitnessTracker.DataAccess.genruntimeconfig.cache
+C:\Mariyam\Projects\FitnessTracker\FitnessTracker.DataAccess\obj\Debug\net9.0\ref\FitnessTracker.DataAccess.dll
